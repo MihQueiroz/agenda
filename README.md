@@ -9,8 +9,8 @@ agenda
 	horário: 20h30
 -
 	nome: Vanessa Tonini
-	palestra: a definir
-	assunto: Web e Internet
+	palestra: Internet, Web?! O que são?
+	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
 	data: 16 de abril
 	horário: 20hs
 -
