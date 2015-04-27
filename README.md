@@ -8,12 +8,6 @@ agenda
 	data: 16 de abril
 	horário: 20h30
 -
-	nome: Vanessa Tonini
-	palestra: Internet, Web?! O que são?
-	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
-	data: 16 de abril
-	horário: 20hs
--
 	nome: Ju Gonçalves
 	palestra: qual linguagem escolher?
 	assunto: introdução à programação
@@ -25,6 +19,12 @@ agenda
 	assunto: Python
 	data: 23 de abril
 	horário: 20h40
+-
+	nome: Vanessa Tonini
+	palestra: Internet, Web?! O que são?
+	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
+	data: 04 de maio
+	horário: 19h
 -
 	nome: Nath Paiva
 	palestra: a definir
