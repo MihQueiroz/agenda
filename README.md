@@ -3,18 +3,18 @@ agenda
 
 Confirmadas
 ---
-
--
+```yaml
 	nome: Vanessa Tonini
 	palestra: Internet, Web?! O que são?
 	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
 	data: 04 de maio
 	horário: 19h
+```
 
 A definir
 ---
-
-	nome: Nath Paiva
+```yaml
+-	nome: Nath Paiva
 	palestra: a definir
 	assunto: Terminal ou Git
 	data: a definir
@@ -36,3 +36,4 @@ A definir
 	assunto: Python
 	data: a definir
 	horário: a definir
+```
