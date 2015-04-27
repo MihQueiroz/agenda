@@ -7,7 +7,7 @@ Confirmadas
 	nome: Vanessa Tonini
 	palestra: Internet, Web?! O que são?
 	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
-	data: 04 de maio
+	data: 06 de maio
 	horário: 19h
 ```
 
