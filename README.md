@@ -4,11 +4,17 @@ agenda
 Confirmadas
 ---
 ```yaml
-	nome: Vanessa Tonini
-	palestra: Internet, Web?! O que são?
-	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
-	data: 06 de maio
-	horário: 19h
+-	nome: Diana Ungaro Arnos
+	palestra: Testes: o que são e para que servem?
+	assunto: Testes
+	data: 05 de janeiro
+	horário: 20h
+	
+-	nome: Samanta Cicilia
+	palestra: Continuous Delivery
+	assunto: Entrega contínua
+	data: 06 de janeiro
+	horário: 20h
 ```
 
 A definir
@@ -18,22 +24,38 @@ A definir
 	palestra: a definir
 	assunto: Terminal ou Git
 	data: a definir
--
- 	nome: Ariadne Pinheiro
+
+-	nome: Ariadne Pinheiro
 	palestra: a definir
 	assunto: Joomla
 	data: a definir
 	horário: a definir
--
-	nome: Ju Gonçalves
+
+-	nome: Ju Gonçalves
 	palestra: qual linguagem escolher?
 	assunto: introdução à programação
 	data: a definir
 	horário: a definir
--
-	nome: Paula Grangeiro
+
+-	nome: Paula Grangeiro
 	palestra: Python basics with Flask
 	assunto: Python
 	data: a definir
 	horário: a definir
+	
+-	nome: Lhaís Rodrigues
+	palestra: Iniciando Programação em C: Dicas, ideias e botando um pouco a mão na massa
+	assunto: Linguagem C
+	data: a definir
+	horário: a definir
+```
+
+Realizadas
+---
+```yaml
+-	nome: Vanessa Tonini
+	palestra: Internet, Web?! O que são?
+	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
+	data: 06 de maio de 2015
+	horário: 19h
 ```
