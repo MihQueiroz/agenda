@@ -4,12 +4,6 @@ agenda
 Confirmadas
 ---
 ```yaml
--	nome: Diana Ungaro Arnos
-	palestra: Testes: o que são e para que servem?
-	assunto: Testes
-	data: 05 de janeiro
-	horário: 20h
-	
 -	nome: Samanta Cicilia
 	palestra: Continuous Delivery
 	assunto: Entrega contínua
@@ -53,6 +47,14 @@ A definir
 Realizadas
 ---
 ```yaml
+-	nome: Diana Ungaro Arnos
+	palestra: Testes: o que são e para que servem?
+	assunto: Testes
+	data: 05 de janeiro de 2016
+	horário: 20h
+	vídeo: https://www.youtube.com/watch?v=xEjnYocvq8o
+	slides: http://pt.slideshare.net/dianaarnos/testes-o-que-so-e-para-que-servem-ladytalks
+
 -	nome: Vanessa Tonini
 	palestra: Internet, Web?! O que são?
 	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
