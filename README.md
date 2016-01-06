@@ -55,6 +55,13 @@ Realizadas
 	vídeo: https://www.youtube.com/watch?v=xEjnYocvq8o
 	slides: http://pt.slideshare.net/dianaarnos/testes-o-que-so-e-para-que-servem-ladytalks
 
+-	nome: Paula Grangeiro
+	palestra: GitHub, como usar?
+	assunto: Git
+	data: 19 de julho de 2015
+	horário: 20h
+	vídeo: https://www.youtube.com/watch?v=Q-OgXVDzGRY
+
 -	nome: Vanessa Tonini
 	palestra: Internet, Web?! O que são?
 	assunto: Como a internet foi criada, a diferença e conceitos básicos entre Internet e Web.
