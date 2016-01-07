@@ -4,7 +4,23 @@ agenda
 Confirmadas
 ---
 ```yaml
--
+-	nome: Mariana Camargo
+	palestra: Lógica de Programação para Iniciantes
+	assunto: Lógica de Programação
+	data: 13 de janeiro
+	horário: 20h
+	
+-	nome: Thamara Hessel
+	palestra: Qualidade de Código
+	assunto: Qualidade de Código
+	data: 20 de janeiro
+	horário: 20h
+
+-	nome: Marcela Santos
+	palestra: Arduino Básico
+	assunto: Arduino
+	data: 20 de fevereiro
+	horário: 20h
 ```
 
 Realizadas
