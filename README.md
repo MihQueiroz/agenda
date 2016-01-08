@@ -32,6 +32,7 @@ Realizadas
 	data: 06 de janeiro de 2016
 	horário: 20h
 	vídeo: https://www.youtube.com/watch?v=58FwM_MWzII
+	slides: http://www.slideshare.net/samantacicilia/lady-talkscontinuous-delivery
 	
 -	nome: Diana Ungaro Arnos
 	palestra: Testes: o que são e para que servem?
