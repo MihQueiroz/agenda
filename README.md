@@ -16,6 +16,12 @@ Confirmadas
 	data: 20 de janeiro
 	horário: 20h
 
+-	nome: Annelise Gripp
+	palestra: Crenças que limitam a evolução das mulheres na área de TI
+	assunto: Mulheres em TI
+	data: 27 de janeiro
+	horário: 20h
+
 -	nome: Marcela Santos
 	palestra: Arduino Básico
 	assunto: Arduino
